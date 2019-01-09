@@ -6,3 +6,6 @@ this is third change online
 
 change on branch
 branch feature2
+
+Remote Changes to generate conflict
+

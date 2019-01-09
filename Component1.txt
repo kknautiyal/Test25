@@ -10,3 +10,5 @@ branch feature2
 Changes to generate conflict
 
 This is is local branch
+
+this is done on master

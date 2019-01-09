@@ -13,3 +13,4 @@ fetch: would not have impact on working copy only affect local repo
 
 git remote add origin <URL>
 
+git pull origin master

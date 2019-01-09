@@ -1,0 +1,15 @@
+
+
+git add: working copy to stage area
+git commit: push code to stage aread to local repo or commit history tree
+
+
+pull= fetch + merge   : impact local and working copy
+
+
+fetch: would not have impact on working copy only affect local repo
+
+
+
+git remote add origin <URL>
+
